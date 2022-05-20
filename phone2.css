@@ -1,0 +1,39 @@
+.image{
+    margin: auto;
+}
+    
+#navbar{
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+}
+#home img{
+    width: 80%;
+
+}
+#navbar a{
+    width: 25%;
+    justify-content: center;
+}
+
+/* gallery */
+
+#img1{
+    position: relative;
+    top: 800px;
+    display: flex;
+    flex-direction: column;
+     margin: 50px 20px;
+    
+}
+.contacts{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.box{
+   display: flex;
+   flex-wrap: wrap;
+}
